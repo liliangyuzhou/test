@@ -3,7 +3,7 @@
 # @File  : run.py
 # @Author: LILIANG
 # @Date  : 2019/5/29
-# @Desc  :  tes
+# @Desc  :  test
 
 import unittest
 from Api_liliang2.common import HTMLTestRunnerNew
