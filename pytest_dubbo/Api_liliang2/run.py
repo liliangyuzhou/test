@@ -5,6 +5,9 @@
 # @Date  : 2019/5/29
 # @Desc  :  test
 
+import sys
+sys.path.append('./')
+print(sys.path)
 import unittest
 from Api_liliang2.common import HTMLTestRunnerNew
 from Api_liliang2.common import constants
